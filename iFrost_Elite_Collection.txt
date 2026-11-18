@@ -34,3 +34,4 @@ dimwishlist:item=3428407746&perks=3250034553,3142289711,3619207468,365154968#not
 // ====================
 dimwishlist:item=2485881870&perks=839105230,3230963543,831391274,923806249#notes:iFrost Elite PvE - Mancanza di amore: Direzione controllata + Caricatore flangiato + Schiusa + Tranciatura.
 dimwishlist:item=3428407746&perks=839105230,3142289711,923806249,831391274#notes:iFrost Elite PvE - Abbondanza Letale: Direzione controllata + Proiettili rifiniti + Tranciatura + Schiusa.
+dimwishlist:item=3428407746&perks=839105230,3142289711,1359896290,95528736#notes:iFrost Elite PvE - Abbondanza Letale: Direzione controllata + Proiettili rifiniti + Oscillazione ridotta + Assalto furioso.
