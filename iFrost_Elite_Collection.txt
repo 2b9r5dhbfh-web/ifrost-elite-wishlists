@@ -30,6 +30,7 @@ dimwishlist:item=2485881870&perks=3250034553,1885400500,247725512,1194056669#not
 dimwishlist:item=3428407746&perks=3250034553,3142289711,3619207468,365154968#notes: PvP - iFrost Elite Collection
 
 dimwishlist:item=3240434620&perks=3250034553,1885400500,3619207468,47981717#notes:iFrost Elite PvP - Qualcosa di nuovo: Rigatura martellata + Proiettili rimbalzanti + Alla larga + Tiro di apertura.
+dimwishlist:item=2877020298&perks=3250034553,1885400500,3619207468,47981717#notes:iFrost Elite PvP - Qualcosa di nuovo S29: Rigatura martellata + Proiettili rimbalzanti + Alla larga + Tiro di apertura.
 
 // ====================
 // SEZIONE PvE ELITE
